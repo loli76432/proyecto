@@ -1,0 +1,3 @@
+Título,Precio,URL,Imagen,marca,marca_categoria,marca_caracteristicas,marca_confianza,marca_alternativas
+iPhone 14 Pro Max,,https://ejemplo.com/iphone,https://img.com/iphone.jpg,Apple,Smartphone,"256GB, Negro, OLED",0.95,iPhone 13 Pro
+Samsung Galaxy S22,,https://ejemplo.com/samsung,https://img.com/samsung.jpg,Samsung,Smartphone,"128GB, Blanco, AMOLED",0.88,Galaxy S21
